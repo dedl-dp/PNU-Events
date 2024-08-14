@@ -61,10 +61,15 @@
   <resources>
     <resource identifier="__5VPyrv1r3GN_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/60EGADpO40G_P_0_0_1549_90.png" />
+      <file href="mobile/5ty4rmQiswA.png" />
+      <file href="story_content/6odcZYsO4ca.js" />
+      <file href="mobile/5oEEVAc1xJp.png" />
       <file href="meta.xml" />
       <file href="story_content/triggers.js" />
       <file href="story_content/user.js" />
       <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5fH1zCkair0.js" />
       <file href="html5/data/js/6LI0fnHD0Xp.js" />
       <file href="html5/data/js/data.js" />
       <file href="html5/data/js/frame.js" />
