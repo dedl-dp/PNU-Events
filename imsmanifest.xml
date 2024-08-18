@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest identifier="_5VPyrv1r3GN_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<manifest identifier="_62Blwo9ckrL_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
   <metadata>
     <schema>ADL SCORM</schema>
     <schemaversion>1.2</schemaversion>
@@ -53,18 +53,22 @@
   <organizations default="المشاركة_والتسجيل_في_المعرض_ORG">
     <organization identifier="المشاركة_والتسجيل_في_المعرض_ORG">
       <title>المشاركة والتسجيل في المعرض</title>
-      <item identifier="Math_-_Lesson_1_SCO" isvisible="true" identifierref="__5VPyrv1r3GN_course_id_RES">
+      <item identifier="Math_-_Lesson_1_SCO" isvisible="true" identifierref="__62Blwo9ckrL_course_id_RES">
         <title>المشاركة والتسجيل في المعرض</title>
       </item>
     </organization>
   </organizations>
   <resources>
-    <resource identifier="__5VPyrv1r3GN_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+    <resource identifier="__62Blwo9ckrL_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/60EGADpO40G_P_0_0_1549_90.png" />
+      <file href="mobile/5ty4rmQiswA.png" />
+      <file href="story_content/6odcZYsO4ca.js" />
+      <file href="mobile/5oEEVAc1xJp.png" />
       <file href="meta.xml" />
       <file href="story_content/user.js" />
       <file href="html5/data/css/output.min.css" />
-      <file href="html5/data/js/6LI0fnHD0Xp.js" />
+      <file href="html5/data/js/5fH1zCkair0.js" />
       <file href="html5/data/js/data.js" />
       <file href="html5/data/js/frame.js" />
       <file href="html5/data/js/paths.js" />
